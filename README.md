@@ -1,14 +1,15 @@
 # Hi, I'm Vidit 👋  
 
-🚀 **Open-Source Developer** | **C/C++ Specialist** | **Multimedia Tools**  
+🚀 **Open-Source Developer** | **C/C++ Specialist** | **App Developer**  
 
 🔧 **Currently Working On:**  
-- Contributing to **VLC** (multi-track audio playback)  
+- Contributing to **VLC** (multi-track audio playback)
+- Learning App Dev  
 - 🔥 **DSA Progress:**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/viditguptaofficial?theme=dark&font=baloo)  
 
 💡 **Skills:**  
-`C` `C++` `js` `FFmpeg` `Audio Engineering` `Git`  `Swift`  `Qt`
+`C` `C++` `js` `Qt` `Dart` `Flutter`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viditgupta-official&layout=compact&theme=vision-friendly-dark)
 
