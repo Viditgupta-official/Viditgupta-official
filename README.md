@@ -3,13 +3,12 @@
 🚀 **Open-Source Developer** | **C/C++ Specialist** | **App Developer**  
 
 🔧 **Currently Working On:**  
-- Contributing to **VLC** (multi-track audio playback)
 - Learning App Dev  
 - 🔥 **DSA Progress:**  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/viditguptaofficial?theme=dark&font=baloo)  
 
 💡 **Skills:**  
-`C` `C++` `js` `Qt` `Dart` `Flutter`
+`C` `C++` `Dart` `Flutter`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viditgupta-official&layout=compact&theme=vision-friendly-dark)
 
