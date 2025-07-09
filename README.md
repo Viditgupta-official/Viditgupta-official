@@ -3,14 +3,12 @@
 
 🚀 **Open-Source Developer** | **C/C++ Specialist** | **App Developer** 
 
-<img align = "right" alt = "coding" width ="300" src = "https://analyticsindiamag.com/wp-content/uploads/2019/05/1_v3ikxyKvhmgFmwncD7AfsA.jpeg">
-
 🔧 **Currently Working On:**  
 - Developing multiple applications
- 
-- 🔥 **DSA Progress:**
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/viditguptaofficial?theme=dark&font=baloo)  
+
+ 🔥 **DSA Progress:**
+
+   ![LeetCode Stats](https://leetcard.jacoblin.cool/viditguptaofficial?theme=dark&font=baloo)  
 
 💡 **Skills:**  
 `C` `C++` `Dart` `Flutter` ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
