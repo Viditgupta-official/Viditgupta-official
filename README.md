@@ -3,7 +3,7 @@
 
 🚀 **Open-Source Developer** | **C/C++ Specialist** | **App Developer** 
 
-<img align = "right" alt = "coding" width ="350" src = "https://analyticsindiamag.com/wp-content/uploads/2019/05/1_v3ikxyKvhmgFmwncD7AfsA.jpeg">
+<img align = "right" alt = "coding" width ="300" src = "https://analyticsindiamag.com/wp-content/uploads/2019/05/1_v3ikxyKvhmgFmwncD7AfsA.jpeg">
 
 🔧 **Currently Working On:**  
 - Developing multiple applications
