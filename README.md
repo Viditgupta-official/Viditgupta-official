@@ -11,8 +11,7 @@
    ![LeetCode Stats](https://leetcard.jacoblin.cool/viditguptaofficial?theme=dark&font=baloo)  
 
 💡 **Skills:**  
-`C` `C++` `Dart` `Flutter` ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+`C` `C++` `Dart` `Flutter` `Firebase` `Git` `Docker` `Go` `Swift`
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viditgupta-official&layout=compact&theme=vision-friendly-dark)
 
 📫 **Let's Connect:**  
