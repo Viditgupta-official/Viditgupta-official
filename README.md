@@ -13,7 +13,5 @@
 💡 **Skills:**  
 `C` `C++` `Dart` `Flutter` `Firebase` `Git` `Docker` `Go` `Swift`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viditgupta-official&layout=compact&theme=vision-friendly-dark)
-
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidit-gupta-949894315/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:viditgupta.official@gmail.com)  
